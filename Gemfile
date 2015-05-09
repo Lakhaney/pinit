@@ -20,6 +20,8 @@ gem 'jquery-rails'
 gem "paperclip", "~> 4.2"
 gem 'aws-sdk', '~> 2'
 gem 'masonry-rails'
+gem 'will_paginate', '~> 3.0.7'
+gem 'will_paginate-bootstrap'
 
 gem 'turbolinks'
 gem 'jquery-turbolinks'
